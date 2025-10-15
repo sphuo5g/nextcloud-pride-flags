@@ -28,6 +28,22 @@ const flags = [
 		id: 'lesbian',
 		colors: ['#D52D00', '#EF7627', '#FF9A56', '#FFFFFF', '#D162A4', '#B55690', '#A30262'],
 		transform: 'rotate(90)'
+	}, {
+		id: 'genderqueer',
+		colors: ['#B57EDC', '#FFFFFF', '#4A8123'],
+		transform: 'rotate(90)'
+	}, {
+		id: 'gay',
+		colors: ['#078D70', '#26CEAA', '#99E8C2', '#FFFFFF', '#7BADE3', '#5049CB', '#3E1A78'],
+		transform: 'rotate(90)'
+	}, {
+		id: 'genderfluid',
+		colors: ['#EE75A1', '#FFFFFF', '#8A4493', '#000000', '#374A99'],
+		transform: 'rotate(90)'
+	}, {
+		id: 'grey',
+		color: ['#790196', '#B0B2AF', '#FFFFFF', '#B0B2AF', '#790196'],
+		transform: 'rotate(90)'
 	}
 ];
 

@@ -11,6 +11,10 @@
 				<option value='bi'>Bisexual Pride</option>
 				<option value='asexual'>Asexual Pride</option>
 				<option value='lesbian'>Lesbian Pride</option>
+				<option value='genderqueer'>Genderqueer Pride</option>
+				<option value='gay'>Gay Pride</option>
+				<option value='genderfluid'>Genderfluid Pride</option>
+				<option value='grey'>Greysexual Pride</option>
 			</select>
 		</div>
 		<div class="server-settings button-flavour" style="margin-left: 40px; display: flex;">
@@ -23,6 +27,10 @@
 				<option value='bi'>Bisexual Pride</option>
 				<option value='asexual'>Asexual Pride</option>
 				<option value='lesbian'>Lesbian Pride</option>
+				<option value='genderqueer'>Genderqueer Pride</option>
+				<option value='gay'>Gay Pride</option>
+				<option value='genderfluid'>Genderfluid Pride</option>
+				<option value='grey'>Greysexual Pride</option>
 			</select>
 		</div>
 		<button class="settings-pride-submit button primary" style="margin-left: 40px; display: flex; width: 80px; text-align: center;">Save</button>
