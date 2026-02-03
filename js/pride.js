@@ -44,6 +44,10 @@ const flags = [
 		id: 'grey',
 		color: ['#790196', '#B0B2AF', '#FFFFFF', '#B0B2AF', '#790196'],
 		transform: 'rotate(90)'
+	}, {
+		id: 'aromantic',
+		color: ['#3DA542', '#A6D378', '#FFFFFF', '#A8A8A8', '#000000'],
+		transform: 'rotate(90)'
 	}
 ];
 
